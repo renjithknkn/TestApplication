@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Llyod sample application</string>
+    <string name="label_list_name">Name of people</string>
+    <string name="server_error_msg">Something went wrong</string>
+    <string name="progress_bar">Loading peoples list</string>
+    <string name="peoples_list_label">Peoples  list</string>
+    <string name="cancel_button">Cancel</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="label_job_title">People\'s Job title</string>
+    <string name="label_email">Email address</string>
+    <string name="label_emp_id">Employee id</string>
+    <string name="label_emp_id_is">Employee id is : %s</string>
+    <string name="label_fav_color">Favourite color</string>
+    <string name="label_emp_fav_color_is">Favourite Color is %s</string>
+    <string name="peoples">Peoples</string>
+    <string name="buildings">Buildings</string>
+    <string name="open">Open Menu</string>
+    <string name="close">Close menu</string>
+    <string name="buildings_list_label">Buildings List</string>
+    <string name="label_max_occupancy">Maximum occupancy of this room</string>
+    <string name="label_building_id">"Building number "</string>
+    <string name="label_is_occupied">Building\'s occupied status</string>
+    <string name="building_occupied_status">Building is %s occupied</string>
+    <string name="building_id">Building id :  %s</string>
+    <string name="building_occupancy">Maximum occupancy is %d</string>
+</resources>
